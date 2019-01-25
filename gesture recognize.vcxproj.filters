@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="gesture recognize.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="test.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="framediff.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="avgbackground.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="codebook.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="mousecolor.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="test_getframe.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="inversefilter.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="test_historgam.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="canny86.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="disttransform.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="test_HSVandYCrCb.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="skinotsu.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="thin.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="hand.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="mpgcalc.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="test_mysql.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="gesturestudy.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="test_keyboardresp.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="gesturematch.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="test.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="framediff.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="avgbackground.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="codebook.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="mousecolor.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="test_getframe.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="inversefilter.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="test_historgam.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="canny86.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="disttransform.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="test_HSVandYCrCb.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="skinotsu.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="thin.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="hand.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="mpgcalc.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="test_mysql.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="gesturestudy.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="test_keyboardresp.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="gesturematch.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
